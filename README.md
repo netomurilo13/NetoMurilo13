@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielscota/gabrielscota/master/github.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/netomurilo13/NetoMurilo13/master/github.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 
