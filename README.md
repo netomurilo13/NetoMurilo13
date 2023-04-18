@@ -10,13 +10,18 @@
 
 - 🌱 I’m currently learning Flutter and TDD
 - 💬 Ask me about anything ...
+- I worked professionally for 2 years with NodeJs/NestJs
 
 
 ### Language & Tools
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=212121">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src=[https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png](https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png)>
+<img src="https://img.shields.io/badge/NodeJs-NestJs-green">
+<img src="https://img.shields.io/badge/__-MongoDB-green">
+<img src="https://img.shields.io/badge/Azure-DevOps-blue">
+<img src="https://img.shields.io/badge/API-REST-yellowgreen">
+
 
 ### Other Languages I know
 
